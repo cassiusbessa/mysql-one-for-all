@@ -1,4 +1,7 @@
 node_modules/
+tests
+.trybe
+.github
 
 # VSCode repo settings
 .vscode
